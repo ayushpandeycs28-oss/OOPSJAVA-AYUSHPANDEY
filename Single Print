@@ -1,0 +1,5 @@
+public class AddressSingle {
+    public static void main(String[] args) {
+        System.out.println("John Doe\n123 Main Street\nCity, State, ZIP\nCountry");
+    }
+}
